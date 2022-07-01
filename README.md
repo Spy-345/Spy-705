@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Spy-705
 - 👀 I’m interested in ...> Web Development,Blockchain,Web3.0,Cryptocurrency,Python.
-- 🌱 I’m currently learning ...>Web Development and Advance Python,DSA.
-- 💞️ I’m looking to collaborate on ...>Startups,Edtech companies,CryptoWorld,Blockchain Development company.
+- 🌱 I’m currently learning ...>Web Development and Advance Python,Web3.0,Blockchain Development,Cryptocurrency,DSA.
+- 💞️ I’m looking to collaborate on ...>Startups,Edtech companies,CryptoWorld,Blockchain Development company,Web3.0 Startup's.
 - 📫 How to reach me ...>Mail:shivyewle705@gmail.com 
 
 <!---
